@@ -1,5 +1,7 @@
 # 🧠 N8N Workflow Collection & Documentation
 
+/workflow-doucemtaion.html
+
 This repository contains a comprehensive collection of **2000+ n8n workflows** with an automated documentation system that provides detailed analysis and interactive browsing capabilities.
 
 ## 📊 Interactive Documentation
